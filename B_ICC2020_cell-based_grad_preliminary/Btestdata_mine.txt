@@ -1,0 +1,13 @@
+str:1:IC DESIGN CONTEST 2022 1st place
+pat:1:1:00:*
+pat:2:0:00:.IC
+pat:3:0:00:place.
+str:2:Ic Design Contest 2021 2nd place
+pat:1:1:10:Contest*
+str:3:ic contest 2020 13th place
+pat:1:1:00:*ic ....
+pat:2:1:00:*
+str:4:I
+pat:1:0:00:*ICC2020
+str:5:me
+pat:1:0:00:You*me

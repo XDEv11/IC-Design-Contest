@@ -1,0 +1,6 @@
+str:1:IC DESIGN CONTEST 2022 1st place
+pat:1:0:00:.IC
+pat:2:1:23:1st place
+str:2:I
+pat:1:0:00:ICC 2020
+pat:2:0:00:^ICC...$
